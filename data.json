@@ -1,77 +1,77 @@
 [
   {
-    "guid": "05024756-765e-41a9-89d7-1407436d9a58",
-    "school": "Iowa State University",
-    "mascot": "Cy",
-    "nickname": "Cyclones",
-    "location": "Ames, IA, USA",
-    "latlong": "42.026111,-93.648333"
+    "guid": "7d3c9c4f-1f3e-4f1d-a4c2-9d1a6c3f7b21",
+    "school": "University of Florida",
+    "mascot": "Albert",
+    "nickname": "Gators",
+    "location": "Gainesville, FL, USA",
+    "latlong": "29.651634,-82.324826"
   },
   {
-    "guid": "27a85510-1ccd-4e44-81bd-92b5ba0ae402",
-    "school": "Baylor University",
-    "mascot": "Judge",
-    "nickname": "Bears",
-    "location": "Waco, TX, USA"
+    "guid": "8b7e1d2a-5b9c-4d3e-90f1-2a3e7c4d6f88",
+    "school": "University of Georgia",
+    "mascot": "Uga",
+    "nickname": "Bulldogs",
+    "location": "Athens, GA, USA"
   },
   {
-    "guid": "9623f598-ca93-4d4e-bbb7-3e18320a923a",
-    "school": "University of Kansas",
-    "mascot": "Big Jay",
-    "nickname": "Jayhawks",
-    "location": "Lawrence, KS, USA",
-    "latlong": "38.958056,-95.247778"
+    "guid": "c4e8a2f1-3f77-4c6d-9c6f-1e4a7b8f2d19",
+    "school": "University of Alabama",
+    "mascot": "Big Al",
+    "nickname": "Crimson Tide",
+    "location": "Tuscaloosa, AL, USA",
+    "latlong": "33.209841,-87.569173"
   },
   {
-    "guid": "b4ef9980-1562-4996-b8a0-320f8be3d4ee",
-    "school": "Kansas State University",
-    "mascot": "Willie the Wildcat",
-    "nickname": "Wildcats",
-    "location": "Manhattan, KS, USA",
-    "latlong": "39.191667, -96.580833"
+    "guid": "1f9a2b44-8d23-4f76-b0d1-5d4a7e9b3c66",
+    "school": "University of Michigan",
+    "mascot": "Wolverine",
+    "nickname": "Wolverines",
+    "location": "Ann Arbor, MI, USA",
+    "latlong": "42.280826,-83.743038"
   },
   {
-    "guid": "daf47311-d6b8-4b52-8093-3e33ef5e59e5",
-    "school": "University of Oklahoma",
-    "mascot": "Boomer and Sooner",
-    "nickname": "Sooners",
-    "location": "Norman, OK, USA"
+    "guid": "2a8c4d77-91ef-4a9e-8b1d-0f2c3e4b5a90",
+    "school": "Ohio State University",
+    "mascot": "Brutus Buckeye",
+    "nickname": "Buckeyes",
+    "location": "Columbus, OH, USA"
   },
   {
-    "guid": "d23d0b38-a42b-42dd-a58c-6bf5661f5f52",
-    "school": "Oklahoma State University",
-    "mascot": "",
-    "nickname": "Cowboys",
-    "location": "Stillwater, OK, USA",
-    "latlong": "36.132222, -97.080833"
+    "guid": "6e3d7a8c-0f11-4b4c-9a55-8c3b6d1e7f42",
+    "school": "University of Oregon",
+    "mascot": "The Oregon Duck",
+    "nickname": "Ducks",
+    "location": "Eugene, OR, USA",
+    "latlong": "44.052069,-123.086754"
   },
   {
-    "guid": "20bdc947-ba72-4476-9983-232c775d0b31",
-    "school": "Texas Christian University",
-    "mascot": "Horned Frog",
-    "nickname": "Horned Frogs",
-    "location": "Fort Worth, TX, USA"
+    "guid": "0c4b9a2e-3d88-4f2b-a9c3-7b1f2d6e8a55",
+    "school": "University of Washington",
+    "mascot": "Dubs",
+    "nickname": "Huskies",
+    "location": "Seattle, WA, USA"
   },
   {
-    "guid": "f6e17d21-1616-44ff-9655-8f12296abdd8",
-    "school": "University of Texas at Austin",
-    "mascot": "Hook 'em",
-    "nickname": "Longhorns",
-    "location": "Austin, TX, USA"
+    "guid": "5b7d1e2c-6f3a-4d1a-b8e7-4c2a9d1f3e77",
+    "school": "University of Southern California",
+    "mascot": "Traveler",
+    "nickname": "Trojans",
+    "location": "Los Angeles, CA, USA"
   },
   {
-    "guid": "5992771b-359c-4e58-8faf-10f3965b9ea8",
-    "school": "Texas Tech University",
-    "mascot": "The Masked Rider and Raider Red",
-    "nickname": "Red Raiders",
-    "location": "Lubbock, TX, USA"
+    "guid": "3d2e7b5a-4c6f-4a9b-9f21-6e8d1c3a2b88",
+    "school": "Clemson University",
+    "mascot": "The Tiger",
+    "nickname": "Tigers",
+    "location": "Clemson, SC, USA"
   },
   {
-    "guid": "bf98a44c-e26f-47ae-8f94-1a1b61a9c414",
-    "school": "West Virginia University",
-    "mascot": "The Mountaineer",
-    "nickname": "Mountaineers",
-    "location": "Morgantown, WV, USA",
-    "latlong": "39.63582, -79.95453"
+    "guid": "9a1f2e3b-7c4d-4e5f-b2c1-3d6a8e9b0f11",
+    "school": "Louisiana State University",
+    "mascot": "Mike the Tiger",
+    "nickname": "Tigers",
+    "location": "Baton Rouge, LA, USA",
+    "latlong": "30.413333,-91.180000"
   }
 ]
