@@ -25,4 +25,4 @@ jobs:
           pylint --disable=C0301 *.py
       
       - name: Run unit tests
-        run: python -m unittest --verbose --failtest
+        run: python -m unittest --verbose --failfast
