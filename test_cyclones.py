@@ -14,19 +14,19 @@ class CyclonesTests(unittest.TestCase):
 
     def test_guid(self):
         """test_guid: a request for the guid shall return 200 OK"""
-        res = self.app.get("/05024756-765e-41a9-89d7-1407436d9a58")
+        res = self.app.get("/7d3c9c4f-1f3e-4f1d-a4c2-9d1a6c3f7b21")
         assert res.status == "200 OK"
 
     def test_json(self):
         """test_json: a request for the guid shall return the defined JSON"""
-        res = self.app.get("/05024756-765e-41a9-89d7-1407436d9a58")
+        res = self.app.get("/7d3c9c4f-1f3e-4f1d-a4c2-9d1a6c3f7b21")
         assert res.json == {
-            "guid": "05024756-765e-41a9-89d7-1407436d9a58",
-            "latlong": "42.026111,-93.648333",
-            "location": "Ames, IA, USA",
-            "mascot": "Cy",
-            "nickname": "Cyclones",
-            "school": "Iowa State University",
+            "guid": "7d3c9c4f-1f3e-4f1d-a4c2-9d1a6c3f7b21",
+            "latlong": "29.651634,-82.324826",
+            "location": "Gainesville, FL, USA",
+            "mascot": "Albert",
+            "nickname": "Gators",
+            "school": "University of Florida",
         }
 
 
