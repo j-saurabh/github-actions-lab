@@ -100,7 +100,5 @@ jobs:
 
       - name: Stop ${{ env.SERVICE_NAME }}
         run: docker stop $SERVICE_NAME
-        
-          
-          
-          
+
+#Further deployment steps based on where the app gets deployed 
