@@ -1,9 +1,10 @@
+# use a python image
 FROM python:3.13.5-slim-bookworm
 
-RUN apt-update && apt install curl -y
+RUN apt update && apt install curl -y
 
-# copy requirements.txt and dependencies
-COPY requirements.txt . 
+# copy requirements.txt and install dependencies
+COPY requirements.txt .
 RUN pip install --root-user-action=ignore \
         --upgrade pip && \
     pip install --root-user-action=ignore \
@@ -13,12 +14,13 @@ RUN pip install --root-user-action=ignore \
 WORKDIR /usr/local/bin
 
 # add the current directory to the container
-COPY . . 
+COPY . .
 
 RUN chmod +x /usr/local/bin/main.py
 
+# expose the port the application will listen on
 EXPOSE 8080
 
-# execute the flask app
+# execute the Flask app
 HEALTHCHECK CMD curl --fail http://localhost:8080/health || exit 1
 CMD ["/usr/local/bin/main.py"]
